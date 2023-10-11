@@ -1,7 +1,7 @@
 # Evolution Strategies in Reinforcement Learning
 
 ## Project structure
-- ``presentation.key`` - The Project Keynote presentation
+- ``presentation.pdf`` - The Project Keynote presentation
 - ``evolution`` - The Python module and files.
 - ``tests`` - The Python module for testing the code.
 - ``evolution/simulation`` - Folders where the raw data will be generated.
