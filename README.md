@@ -1,7 +1,6 @@
 # Exploring Direct Policy Search via  Evolutionary Algorithms
 
 ## Project structure
-- ``presentation.pdf`` - The Project Keynote presentation
 - ``evolution`` - The Python module and files.
 - ``tests`` - The Python module for testing the code.
 - ``evolution/simulation`` - Folders where the raw data will be generated.
