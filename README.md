@@ -1,4 +1,4 @@
-# Evolution Strategies in Reinforcement Learning
+# Exploring Direct Policy Search via  Evolutionary Algorithms
 
 ## Project structure
 - ``presentation.pdf`` - The Project Keynote presentation
